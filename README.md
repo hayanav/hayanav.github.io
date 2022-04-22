@@ -8,7 +8,7 @@ Personal website showcasing personal projects
 -->
 <html>
 	<head>
-		<title>Tony Teaches Tech</title>
+		<title>Haya Naviwala Personal Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />

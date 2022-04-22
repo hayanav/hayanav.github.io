@@ -30,8 +30,8 @@ Personal website showcasing personal projects
 
 		<!-- Banner -->
 			<section id="banner">
-				<h1>Tony Teaches Tech</h1>
-				<p>Like, comment, and subscribe!</p>
+				<h1>Haya Naviwala</h1>
+				<p> Personal Projects, Proof of Concepts, and MVP's </p>
 			</section>
 
 		<!-- One -->

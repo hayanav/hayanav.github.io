@@ -40,27 +40,40 @@ Personal website showcasing personal projects
 					<div class="flex flex-3">
 						<article>
 							<header>
-								<h3>Magna tempus sed amet<br /> aliquam veroeros</h3>
+								<h3>Personal Projects & Coursework<br /> aliquam veroeros</h3>
 							</header>
-							<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+							<p> --> NLP and Text Analytics Projects
+							    --> NLP Project with w/ Twitter API
+							    --> Data Mining Projects (seasonality, ARIMA, etc)
+							    --> Statistical Models
+							    --> Financial models with Python
+							    --> Microsoft One Note Add in w/ REST API
+							    --> Data Cleansing and Wrangling
+							</p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
 							<header>
-								<h3>Interdum lorem pulvinar<br /> adipiscing vitae</h3>
+								<h3>UI/UX and Product Design portfolio <br /> adipiscing vitae</h3>
 							</header>
-							<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+							<p> --> Figma Mockups
+							    --> Wireframes
+							    --> Some websites I've worked on
+							</p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
 							<header>
-								<h3>Libero purus magna sapien<br /> sed ullamcorper</h3>
+								<h3>Data Visualizations & Dashboards <br /> sed ullamcorper</h3>
 							</header>
-							<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu.</p>
+							<p> --> Tableau
+							    --> Power BI
+							    --> R Studio
+							</p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
